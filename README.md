@@ -20,5 +20,5 @@ http://www.index.go.kr/potal/stts/idxMain/selectPoSttsIdxSearch.do?idx_cd=1399
 --->로그인 화면 추가
 
 
------>메뉴화면 추가/로그인 화면+영화 시각화 페이지와 연동
+----->메뉴화면 추가/로그인 화면+영화 시각화 버튼 추가 후 페이지와 연동
 
