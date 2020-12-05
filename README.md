@@ -14,3 +14,5 @@ http://www.index.go.kr/potal/stts/idxMain/selectPoSttsIdxSearch.do?idx_cd=1399
 
 
 --->그냥 무비를 응용하기로 함 제목,관객수를 변경하기로 
+
+---->제목,관객수--->제목,상영횟수,상영
