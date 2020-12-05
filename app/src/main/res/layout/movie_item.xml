@@ -26,7 +26,7 @@
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:padding="5dp"
-                app:srcCompat="@drawable/movie" />
+                app:srcCompat="@drawable/play" />
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -43,14 +43,22 @@
                     android:textSize="22sp"
                     android:maxLines="1"/>
 
+
+                <TextView
+                    android:id="@+id/textView3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="left"
+                    android:text="상영 횟수"
+                    android:textColor="#E18080"
+                    android:textSize="16sp" />
+
                 <TextView
                     android:id="@+id/textView2"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_marginTop="10dp"
-                    android:paddingRight="10dp"
                     android:gravity="right"
-                    android:text="관객수"
+                    android:text="상영 시작일"
                     android:textColor="#FF0000FF"
                     android:textSize="16sp" />
             </LinearLayout>
